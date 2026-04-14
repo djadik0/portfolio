@@ -10,7 +10,7 @@
 
 Начинающий инженер в направлении FPGA / RTL / SoC. Прохожу стажировку в НИЛ ЭСК НИУ МИЭТ по направлению RTL и развиваю портфолио учебных проектов на SystemVerilog.
 
-Основной интерес — разработка и интеграция цифровых IP-блоков: **SoC top-level**, memory-mapped периферия, **UART**, **SPI**, **AXI4-Lite**, **AXI-Stream**, valid-ready интерфейсы, register map design и базовая верификация RTL-модулей.
+Основной интерес — разработка и интеграция цифровых IP-блоков: SoC top-level, memory-mapped периферия, UART, SPI, AXI4-Lite, AXI-Stream, valid-ready интерфейсы, register map design и базовая верификация RTL-модулей.
 
 В портфолио есть как небольшие учебные RTL-модули, так и более крупные интеграционные проекты: **RISC-V mini SoC**, **UART-to-AXI4-Lite bridge**, аппаратный **AI UART classifier**, лабораторные работы по FPGA и набор мини-проектов по интерфейсам и цифровой логике.
 
@@ -99,7 +99,7 @@
 - CSR-подсистема и базовая обработка trap / interrupt;
 - memory-mapped периферия для переключателей и светодиодов;
 - контроллер внешних прерываний;
-- пример встроенной программы на **C/C++** для работы с периферией.
+- пример встроенной программы на C/C++ для работы с периферией.
 
 
 ### 2. UART to AXI4-Lite Bridge
@@ -169,8 +169,8 @@
 - valid-ready pipeline stage;
 - pulse generator / waveform project;
 - SDC constraints для `MY_DESIGN`;
-- **SPI Master**;
-- **AXI-Stream Width Converter 32-to-8**.
+- SPI Master;
+- AXI-Stream Width Converter 32-to-8.
 
 ### 6. RGB LED and 7-Segment Display Controller for Nexys A7-100T
 
