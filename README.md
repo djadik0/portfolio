@@ -8,7 +8,7 @@
 
 ## Кратко о себе
 
-Начинающий инженер в направлении FPGA / RTL / SoC. Прохожу стажировку в НИЛ ЭСК НИУ МИЭТ по направлению RTL и развиваю портфолио учебных проектов на SystemVerilog.
+Начинающий инженер в направлении FPGA / RTL / SoC. Прохожу стажировку в НИЛ ЭСК НИУ МИЭТ по направлению RTL.
 
 Основной интерес — разработка и интеграция цифровых IP-блоков: SoC top-level, memory-mapped периферия, UART, SPI, AXI4-Lite, AXI-Stream, valid-ready интерфейсы, register map design и базовая верификация RTL-модулей.
 
@@ -38,7 +38,6 @@
 - Python-скрипты для проверки и связи с FPGA
 
 **RTL / FPGA / SoC:**
-- combinational / sequential logic
 - FSM
 - pipeline
 - top-level integration
@@ -60,7 +59,7 @@
 - AMBA concepts 
 
 **Архитектурные темы:**
-- RISC-V RV32I basics
+- RISC-V RV32I 
 - LSU
 - CSR
 - interrupts
