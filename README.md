@@ -32,7 +32,6 @@
 **Инструменты:**
 - Xilinx Vivado
 - Vivado ILA
-- QuestaSim на базовом уровне
 - Git / GitHub / Gitlab
 - OpenProject 
 - Linux
